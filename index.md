@@ -1,5 +1,5 @@
 # POLÍTICA DE PRIVACIDAD -  Ahorra365
-Última actualización: Octubre 2025
+Última actualización: Enero 2026
 
 ### 1. Introducción
 Bienvenido a Ahorra365. Esta Política de Privacidad describe cómo manejamos tu información cuando utilizas nuestra aplicación móvil Ahorra365 ("la App", "nosotros", "nuestro").
@@ -25,6 +25,7 @@ Toda la información generada por la App se almacena exclusivamente en tu dispos
 - Estado de completado de cada reto
 - Logros desbloqueados
 - Historial de progreso
+- 
 #### 3.2 Preferencias del Usuario (DataStore)
 - Configuración de notificaciones
 - Hora preferida para recordatorios
@@ -40,7 +41,7 @@ La App solicita los siguientes permisos de Android:
 Propósito: Enviar recordatorios diarios del reto
 Uso: Solo se utiliza para notificaciones locales generadas en tu dispositivo
 Opcional: Puedes desactivar las notificaciones en cualquier momento desde la configuración de la App
-4.2 Alarmas Exactas (SCHEDULE_EXACT_ALARM, USE_EXACT_ALARM)
+#### 4.2 Alarmas Exactas (SCHEDULE_EXACT_ALARM, USE_EXACT_ALARM)
 Propósito: Programar notificaciones diarias a la hora exacta que configures
 Uso: Permite que las notificaciones lleguen puntualmente
 Opcional: Solo se utiliza si las notificaciones están activadas
@@ -97,4 +98,9 @@ Esta política cumple con:
 ✅ Políticas de Google Play Store
 
 ### 11. Contacto
-Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos
+Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos en:
+Email: mlmesa.dev@gmail.com
+Responderemos tu consulta dentro de 30 días hábiles.
+
+## 12. ACEPTACIÓN
+**Al descargar y utilizar Ahorra365, aceptas los términos de esta Política de Privacidad. Si no estás de acuerdo, no utilices la Aplicación.**
